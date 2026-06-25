@@ -1,2 +1,2 @@
 # courtney-context
-My Personal Context Vault
+Personal context vault for Copilot, decision frameworks, goals, and workflows
